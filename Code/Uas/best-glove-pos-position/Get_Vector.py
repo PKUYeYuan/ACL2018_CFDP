@@ -106,11 +106,11 @@ def get_same_vector(stack, Buffer, artical):  # 是否在一句  是否在一段
         return Same_vector
     if len(Buffer) == 1:
         return Same_vector
-    if (artical[Buffer[0]][10] - artical[stack[-1]][10]) == 0:  # 是否在同一句
+    if (artical[Buffer[0]][4] - artical[stack[-1]][4]) == 0:  # 是否在同一句
         Same_vector[0] = 1
     else:
         Same_vector[1] = 1
-    if (artical[Buffer[0]][9] - artical[stack[-1]][9]) == 0:  # 是否在同一段
+    if (artical[Buffer[0]][7] - artical[stack[-1]][7]) == 0:  # 是否在同一段
         Same_vector[2] = 1
     else:
         Same_vector[3] = 1
