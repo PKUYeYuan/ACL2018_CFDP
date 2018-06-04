@@ -8,7 +8,7 @@ In discourse parsing, how to model the difficult long span relationship is cruci
 
 ***
 
-The source codes are in **Code** directory, **parse.py** is the main function. For each setting of our model, you just need get in the exact directory and command **python parse.py** to run it.
+The source codes are in **Code** directory. First you should command "python data_pre_process.py" to get the intermedia representation, and then you could run all the settings presented in our paper through changing the attribution (*neural_model_setting and data_mode_setting*) in yy_flags.py. And then command "python Train_process.py" to train the model, "python Test_process.py" to test the model. 
 
 
 ### Requirements
