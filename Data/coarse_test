@@ -1,0 +1,90 @@
+1|Friday , October 93 , 93|NNP , NNP CD , CD|0|Root|1|1|1|1|1|1|1|6
+2|The key U.S. and foreign annual interest rates below are a guide to general levels|DT JJ JJ CC JJ JJ NN NNS RB VBP DT NN TO JJ NNS|1|TextualOrganization|2|1|2|2|1|1|1|18
+3|but don n't always represent actual transactions .|CC VBP RB RB VB JJ NNS .|2|Contrast|2|2|3|2|2|2|2|9
+4|PRIME RATE :|JJ NN :|2|Elaboration|3|1|3|3|1|1|1|3
+5|93 / 93 % .|CD : CD NN .|4|Elaboration|3|2|3|3|2|2|2|6
+6|The base rate on corporate loans at large U.S. money center commercial banks .|DT NN NN IN JJ NNS IN JJ JJ NN NN JJ NNS .|4|Elaboration|4|1|3|3|3|3|1|17
+7|FEDERAL FUNDS :|JJ NNS :|4|Joint|5|1|3|4|1|1|1|3
+8|93 / 93 % high , 93 / 93 % low , 93 / 93 % near closing bid , 93 / 93 % offered .|CD : CD NN JJ , CD : CD NN JJ , CD : CD NN IN NN NN , CD : CD NN VBN .|7|Elaboration|5|2|3|4|2|2|2|30
+9|Reserves|NNS|7|Elaboration|6|1|3|4|3|3|1|1
+10|traded among commercial banks for overnight use in amounts of $ 93 million or more .|VBN IN JJ NNS IN JJ NN IN NNS IN $ CD CD CC JJR .|9|Elaboration|6|2|3|4|3|4|2|16
+11|Source :|NN :|7|Attribution|7|1|3|4|3|5|1|2
+12|Fulton Prebon|NN NN|11|Elaboration|7|2|3|4|3|6|2|2
+13|( U.S.A. )|-LRB- NN -RRB-|12|Elaboration|7|3|3|4|3|7|3|8
+14|Inc.|NN .|12|Same-Unit|7|3|3|4|3|8|4|2
+15|DISCOUNT RATE :|NN NN :|4|Joint|8|1|3|5|1|1|1|3
+16|93 % .|CD NN .|15|Elaboration|8|2|3|5|2|2|2|3
+17|The charge on loans to depository institutions by the New York Federal Reserve Bank .|DT NN IN NNS TO NN NNS IN DT JJ NN JJ NN NN .|15|Elaboration|9|1|3|5|3|3|1|15
+18|CALL MONEY :|VB NN :|4|Joint|10|1|3|6|1|1|1|3
+19|93 / 93 % to 93 % .|CD : CD NN TO CD NN .|18|Elaboration|10|2|3|6|2|2|2|9
+20|The charge on loans to brokers on stock exchange collateral .|DT NN IN NNS TO NNS IN NN NN NN .|18|Elaboration|11|1|3|6|3|3|1|11
+21|COMMERCIAL PAPER|JJ NN|4|Joint|12|1|3|7|1|1|1|2
+22|placed directly by General Motors Acceptance Corp. :|VBN RB IN JJ NNS NN NN :|21|Elaboration|12|2|3|7|2|2|2|9
+23|93 % 93 to 93 days ; 93 % 93 to 93 days ; 93 % 93 to 93 days ; 93 % 93 to 93 days ; 93 % 93 to 93 days ; 93 % 93 to 93 days ; 93 % 93 to 93 days .|CD NN CD TO CD NNS : CD NN CD TO CD NNS : CD NN CD TO CD NNS : CD NN CD TO CD NNS : CD NN CD TO CD NNS : CD NN CD TO CD NNS : CD NN CD TO CD NNS .|21|Elaboration|12|3|3|7|3|3|3|61
+24|COMMERCIAL PAPER :|JJ NN :|4|Joint|13|1|3|8|1|1|1|3
+25|High - grade unsecured notes|JJ : NN JJ NNS|24|Elaboration|13|2|3|8|2|2|2|5
+26|sold through dealers by major corporations in multiples of $ 93 , 93 :|VBN IN NNS IN JJ NNS IN NNS IN $ CD , CD :|25|Elaboration|13|3|3|8|3|3|3|14
+27|93 % 93 days ; 93 % 93 days ; 93 % 93 days .|CD NN CD NNS : CD NN CD NNS : CD NN CD NNS .|24|Elaboration|13|3|3|8|3|4|4|21
+28|CERTIFICATES OF DEPOSIT :|NNS IN NN :|4|Joint|14|1|3|9|1|1|1|4
+29|93 % one month ; 93 % two months ; 93 % three months ; 93 % six months ; 93 % one year .|CD NN CD NN : CD NN CD NNS : CD NN CD NNS : CD NN CD NNS : CD NN CD NN .|28|Elaboration|14|2|3|9|2|2|2|35
+30|Average of top rates|NN IN JJ NNS|28|Elaboration|15|1|3|9|3|3|1|4
+31|paid by major New York banks on primary new issues of negotiable C. D. s , usually on amounts of $ 93 million and more .|VBN IN JJ JJ NN NNS IN JJ JJ NNS IN JJ NN NN NNS , RB IN NNS IN $ CD CD CC JJR .|30|Elaboration|15|2|3|9|3|4|2|28
+32|The minimum unit is $ 93 , 93 .|DT JJ NN VBZ $ CD , CD .|30|Elaboration|16|1|3|9|3|5|1|9
+33|Typical rates in the secondary market :|JJ NNS IN DT JJ NN :|28|Comparison|17|1|3|9|3|6|1|7
+34|93 % one month ; 93 % three months ; 93 % six months .|CD NN CD NN : CD NN CD NNS : CD NN CD NNS .|33|Elaboration|17|2|3|9|3|7|2|21
+35|BANKERS ACCEPTANCES :|NNS NNS :|4|Joint|18|1|3|10|1|1|1|3
+36|93 % 93 days ; 93 % 93 days ; 93 % 93 days ; 93 % 93 days ; 93 % 93 days ; 93 % 93 days .|CD NN CD NNS : CD NN CD NNS : CD NN CD NNS : CD NN CD NNS : CD NN CD NNS : CD NN CD NNS .|35|Elaboration|18|2|3|10|2|2|2|40
+37|Negotiable , bank - backed business credit instruments|JJ , NN : VBD NN NN NNS|35|Elaboration|19|1|3|10|3|3|1|8
+38|typically financing an import order .|RB VBG DT NN NN .|37|Elaboration|19|2|3|10|3|4|2|6
+39|LONDON LATE EURODOLLARS :|NN JJ NNS :|4|Joint|20|1|3|11|1|1|1|4
+40|93 / 93 % to 93 / 93 % one month ; 93 / 93 % to 93 / 93 % two months ; 93 / 93 % to 93 / 93 % three months ; 93 / 93 % to 93 / 93 % four months ; 93 / 93 % to 93 / 93 % five months ; 93 / 93 % to 93 / 93 % six months .|CD : CD NN TO CD : CD NN CD NN : CD : CD NN TO CD : CD NN CD NNS : CD : CD NN TO CD : CD NN CD NNS : CD : CD NN TO CD : CD NN CD NNS : CD : CD NN TO CD : CD NN CD NNS : CD : CD NN TO CD : CD NN CD NNS .|39|Elaboration|20|2|3|11|2|2|2|84
+41|LONDON INTERBANK OFFERED RATES|JJ NN VBN NNS|4|Joint|21|1|3|12|1|1|1|4
+42|( LIBOR ) :|-LRB- NN -RRB- :|41|Summary|21|2|3|12|2|2|2|4
+43|93 / 93 % one month ; 93 / 93 % three months ; 93 / 93 % six months ; 93 / 93 % one year .|CD : CD NN CD NN : CD : CD NN CD NNS : CD : CD NN CD NNS : CD : CD NN CD NN .|41|Elaboration|21|3|3|12|3|3|3|32
+44|The average of interbank offered rates for dollar deposits in the London market|DT NN IN NN VBN NNS IN NN NNS IN DT JJ NN|41|Elaboration|22|1|3|12|3|4|1|13
+45|based on quotations at five major banks .|VBN IN NNS IN CD JJ NNS .|44|Background|22|2|3|12|3|5|2|8
+46|FOREIGN PRIME RATES :|JJ JJ NNS :|4|Joint|23|1|3|13|1|1|1|4
+47|Canada 93 % ; Germany 93 % ; Japan 93 % ; Switzerland 93 % ; Britain 93 % .|NN CD NN : NN CD NN : NN CD NN : NN CD NN : NN CD NN .|46|Elaboration|23|2|3|13|2|2|2|26
+48|These rate indications aren n't directly comparable ;|DT NN NNS VBP RB RB JJ :|46|Elaboration|24|1|3|13|3|3|1|9
+49|lending practices vary widely by location .|VBG NNS VBP RB IN NN .|48|Explanation|24|2|3|13|3|4|2|7
+50|TREASURY BILLS :|NN NNS :|4|Joint|25|1|3|14|1|1|1|3
+51|Results of the Monday , October 93 , 93 , auction of short - term U.S. government bills ,|NNS IN DT NNP , NNP CD , CD , NN IN JJ : NN JJ NN NNS ,|50|Elaboration|25|2|3|14|2|2|2|22
+52|sold at a discount from face value in units of $ 93 , 93 to $ 93 million :|VBN IN DT NN IN NN NN IN NNS IN $ CD , CD TO $ CD CD :|51|Elaboration|25|3|3|14|3|3|3|19
+53|93 % 93 weeks ; 93 % 93 weeks .|CD NN CD NNS : CD NN CD NNS .|50|Elaboration|25|3|3|14|3|4|4|14
+54|FEDERAL HOME LOAN MORTGAGE Corp.|JJ NN NN NN NN .|4|Joint|26|1|3|15|1|1|1|6
+55|( Freddie Mac ) :|-LRB- NN NN -RRB- :|54|Summary|26|2|3|15|2|2|2|5
+56|Posted yields on 93 - year mortgage commitments for delivery within 93 days .|VBN NNS IN CD : NN NN NNS IN NN IN CD NNS .|54|Elaboration|26|3|3|15|3|3|3|14
+57|93 % , standard conventional fixed - rate mortgages ; 93 % , 93 % rate capped one - year adjustable rate mortgages .|CD NN , JJ JJ VBN : NN NNS : CD NN , CD NN NN VBD CD : NN JJ NN NNS .|54|Elaboration|26|3|3|15|3|4|4|28
+58|Source :|NN :|57|Attribution|27|1|3|16|1|1|1|2
+59|Telerate Systems Inc.|NN NNS VBP .|58|Elaboration|27|2|3|16|2|2|2|4
+60|FEDERAL NATIONAL MORTGAGE ASSOCIATION|JJ JJ NN NN|4|Joint|28|1|3|16|3|3|1|4
+61|( Fannie Mae ) :|-LRB- NN NN -RRB- :|60|Summary|28|2|3|16|3|4|2|5
+62|Posted yields on 93 year mortgage commitments for delivery within 93 days|VBN NNS IN CD NN NN NNS IN NN IN CD NNS|60|Elaboration|28|3|3|16|3|5|3|12
+63|( priced at par )|-LRB- VBN IN NN -RRB-|62|Elaboration|28|3|3|16|3|6|4|5
+64|93 % , standard conventional fixed - rate mortgages ; 93 % , 93 / 93 rate capped one - year adjustable rate mortgages .|CD NN , JJ JJ VBN : NN NNS : CD NN , CD : CD NN VBD CD : NN JJ NN NNS .|60|Elaboration|28|3|3|16|3|7|5|29
+65|Source :|NN :|64|Attribution|29|1|3|16|3|8|1|2
+66|Telerate Systems Inc.|NN NNS VBP .|65|Elaboration|29|2|3|16|3|9|2|4
+67|MERRILL LYNCH READY ASSETS TRUST :|NN NN JJ NNS NN :|4|Joint|30|1|3|17|1|1|1|6
+68|93 % .|CD NN .|67|Elaboration|30|2|3|17|2|2|2|5
+69|Annualized average rate of return after expenses for the past 93 days ; not a forecast of future returns .|VBN JJ NN IN NN IN NNS IN DT JJ CD NNS : RB DT NN IN JJ NNS .|67|Elaboration|31|1|3|17|3|3|1|20
+
+1|Three new issues begin trading on the New York Stock Exchange today ,|CD JJ NNS VBP VBG IN DT JJ NN NN NN NN ,|0|Root|1|1|1|1|1|1|1|13
+2|and one began trading on the Nasdaq / National Market System last week .|CC CD VBD VBG IN DT NN : JJ NN NN JJ NN .|1|Temporal|1|2|2|1|2|2|2|14
+3|On the Big Board , Crawford & Co. , Atlanta ,|IN DT JJ NN , NN CC NN , NN ,|1|Elaboration|2|1|3|2|1|1|1|12
+4|( CFD )|-LRB- NN -RRB-|3|Summary|2|2|3|2|2|2|2|3
+5|begins trading today .|VBZ VBG NN .|3|Same-Unit|2|3|3|2|3|3|3|4
+6|Crawford evaluates health care plans ,|NN VBZ NN NN NNS ,|3|Elaboration|3|1|3|2|3|4|1|6
+7|manages medical and disability aspects of worker 's compensation injuries|VBZ JJ CC NN NNS IN NN POS NN NNS|6|Joint|3|2|3|2|3|5|2|11
+8|and is involved in claims adjustments for insurance companies .|CC VBZ VBN IN NNS NNS IN NN NNS .|6|Joint|3|3|3|2|3|6|3|10
+9|Also beginning trading today on the Big Board are El Paso Refinery Limited Partnership , El Paso , Texas ,|RB VBG NN NN IN DT JJ NN VBP FW FW NN JJ NN , FW FW , NNS ,|1|Elaboration|4|1|3|3|1|1|1|20
+10|( ELP )|-LRB- NN -RRB-|9|Summary|4|2|3|3|2|2|2|3
+11|and Franklin Multi - Income Trust , San Mateo , Calif. ,|CC NN NNS : NN NN , NN NN , NN ,|9|Same-Unit|4|3|3|3|3|3|3|13
+12|( FMI ) .|-LRB- NN -RRB- .|11|Summary|4|3|3|3|3|4|4|4
+13|El Paso owns and operates a petroleum refinery .|NN NN VBZ CC VBZ DT NN NN .|9|Elaboration|5|1|3|3|3|5|1|9
+14|Franklin is a closed - end management investment company .|NN VBZ DT JJ : NN NN NN NN .|9|Elaboration|6|1|3|3|3|6|1|10
+15|On the Nasdaq over - the - counter system , Allied Capital Corp. , Washington , D.C. ,|IN DT NN IN : DT : JJ NN , VBD NN NN , NN , NN ,|1|Elaboration|7|1|3|4|1|1|1|22
+16|( ALII )|-LRB- NN -RRB-|15|Summary|7|2|3|4|2|2|2|3
+17|began trading last Thursday .|VBD VBG JJ NNP .|15|Same-Unit|7|3|3|4|3|3|3|5
+18|Allied Capital is a closed - end management investment company|VBN NN VBZ DT JJ : NN NN NN NN|15|Elaboration|8|1|3|4|3|4|1|10
+19|that will operate as a business development concern .|WDT MD VB IN DT NN NN NN .|18|Elaboration|8|2|3|4|3|5|2|9
+

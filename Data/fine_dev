@@ -1,0 +1,150 @@
+1|Many of the nation 's highest - ranking executives saluted Friday 's market plunge as an overdue comeuppance for speculators and takeover players .|JJ IN DT NN POS JJS : JJ NNS VBD NNP POS NN NN IN DT JJ NN IN NNS CC NN NNS .|0|Root|1|1|1|1|1|1|1|26
+2|Assuming that the market doesn n't head into a bottomless free fall ,|VBG IN DT NN NN RB VB IN DT JJ JJ NN ,|4|condition|2|1|2|2|1|1|1|14
+3|some executives think|DT NNS VBP|4|attribution|2|2|3|2|2|2|2|3
+4|Friday 's action could prove a harbinger of good news|NNP POS NN MD VB DT NN IN JJ NN|1|summary-n|2|3|3|2|3|3|3|11
+5|- - as a sign|: : IN DT NN|4|elaboration-general-specific|2|3|3|2|3|4|4|5
+6|that the leveraged buy - out and takeover frenzy of recent years may be abating .|IN DT JJ NN : IN CC NN NN IN JJ NNS MD VB VBG .|5|elaboration-object-attribute-e|2|3|3|2|3|5|5|16
+7|" This is a reaction to artificial LBO valuations , rather than to any fundamentals , "|'' DT VBZ DT NN TO JJ NN NNS , RB IN TO DT NNS , ''|4|explanation-argumentative|2|3|3|2|3|6|6|17
+8|said John Young , chairman of Hewlett - Packard Co. ,|VBD NN JJ , NN IN NN : NN NN ,|7|attribution|2|3|3|2|3|7|7|12
+9|whose shares dropped $ 93 to $ 93 .|WP$ NNS VBD $ CD TO $ CD .|8|elaboration-additional-e|2|3|3|2|3|8|8|13
+10|" If we get rid of a lot of that nonsense ,|'' IN PRP VBP JJ IN DT NN IN DT NN ,|11|contingency|2|3|3|2|3|9|9|12
+11|it will be a big plus . "|PRP MD VB DT JJ NN . ''|7|elaboration-additional|2|3|3|2|3|10|10|8
+12|A few of the executives here for the fall meeting of the Business Council , a group|DT JJ IN DT NNS RB IN DT NN NN IN DT NN NN , DT NN|4|elaboration-additional|3|1|3|3|1|1|1|17
+13|that meets|IN VBZ|12|elaboration-object-attribute-e|3|2|3|3|2|2|2|2
+14|to discuss national issues ,|TO VB JJ NNS ,|13|purpose|3|3|3|3|3|3|3|5
+15|were only too happy to personalize their criticism .|VBD RB RB JJ TO VB PRP$ NN .|12|Same-Unit|3|3|3|3|3|4|4|9
+16|" People wish|'' NNS NN|17|attribution|3|3|3|3|3|5|5|3
+17|the government would do something about leveraged buy - outs ,|DT NN MD VB NN IN JJ NN : NNS ,|12|example|3|3|3|3|3|6|6|11
+18|do something about takeovers ,|VB NN IN NNS ,|17|List|3|3|3|3|3|7|7|5
+19|do something about Donald Trump , "|VB NN IN JJ NN , ''|17|List|3|3|3|3|3|8|8|7
+20|said Rand Araskog , chairman of ITT Corp. ,|VBD NN NN , NN IN NN NN ,|17|attribution|3|3|3|3|3|9|9|10
+21|whose stock dropped $ 93 .|WP$ NN VBD $ CD .|20|elaboration-additional-e|3|3|3|3|3|10|10|8
+22|" Where 's the leadership ?|'' WRB POS DT NN .|17|rhetorical-question|3|3|3|3|3|11|11|7
+23|Where 's the guy|WRB POS DT NN|25|attribution|4|1|3|3|3|12|1|5
+24|who can say :|WP MD VB :|23|elaboration-object-attribute-e|4|2|3|3|3|13|2|4
+25|` Enough is enough ' " ?|`` RB VBZ JJ '' '' .|22|List|4|3|3|3|3|14|3|7
+26|The executives were remarkably unperturbed by the plunge|DT NNS VBD RB JJ IN DT NN|12|Contrast|5|1|3|4|1|1|1|8
+27|even though it lopped billions of dollars off the value of their companies|RB IN PRP VBD NNS IN NNS IN DT NN IN PRP$ NNS|26|concession|5|2|3|4|2|2|2|13
+28|- - and millions off their personal fortunes .|: : CC NNS IN PRP$ JJ NNS .|27|elaboration-additional|5|3|3|4|3|3|3|9
+29|" I 'm not going to worry about one day 's decline , "|'' FW VBP RB VBG TO VB IN CD NN POS NN , ''|26|example|6|1|3|5|1|1|1|16
+30|said Kenneth Olsen , Digital Equipment Corp. president ,|VBD NN NN , JJ NN NN NN ,|29|attribution|6|2|3|5|2|2|2|10
+31|who was leisurely strolling through the bright orange and yellow leaves of the mountains here|WP VBD JJ VBG IN DT JJ NN CC JJ NNS IN DT NNS RB|30|elaboration-additional-e|6|3|3|5|3|3|3|15
+32|after his company 's shares plunged $ 93 to close at $ 93 .|IN PRP$ NN POS NNS VBD $ CD TO VB IN $ CD .|31|temporal-after|6|3|3|5|3|4|4|19
+33|" I didn n't bother calling anybody ;|'' FW FW RB VB VBG NN :|29|elaboration-additional|6|3|3|5|3|5|5|9
+34|I didn n't even turn on TV . "|FW FW RB RB VB RP NN . ''|33|List|6|3|3|5|3|6|6|10
+35|" There hasn n't been any fundamental change in the economy , "|'' EX VBP RB VBN DT JJ NN IN DT NN , ''|29|List|7|1|3|6|1|1|1|14
+36|added John Smale ,|VBN NN NN ,|35|attribution|7|2|3|6|2|2|2|4
+37|whose Procter & Gamble Co . took an $ 93 slide to close at $ 93 .|WP$ NN CC NN NN . VBD DT $ CD NN TO VB IN $ CD .|36|elaboration-additional-e|7|3|3|6|3|3|3|21
+38|" The fact|'' DT NN|35|elaboration-additional|7|3|3|6|3|4|4|3
+39|that this happened two years ago|IN DT VBD CD NNS IN|38|elaboration-object-attribute-e|7|3|3|6|3|5|5|6
+40|and there was a recovery|CC EX VBD DT NN|39|Sequence|7|3|3|6|3|6|6|5
+41|gives people some comfort|VBZ NNS DT NN|38|Same-Unit|7|3|3|6|3|7|7|4
+42|that this won n't be a problem . "|IN DT VBN RB VB DT NN . ''|41|elaboration-object-attribute-e|7|3|3|6|3|8|8|10
+43|Of course , established corporate managements often tend to applaud the setbacks of stock speculators and takeover artists .|IN NN , JJ JJ NNS RB VBP TO VB DT NNS IN NN NNS CC NN NNS .|12|Contrast|8|1|3|7|1|1|1|19
+44|Indeed , one chief executive|RB , CD NN NN|43|elaboration-general-specific|9|1|3|7|2|2|1|5
+45|who was downright delighted by Friday 's events|WP VBD RB JJ IN NNP POS NNS|44|elaboration-object-attribute-e|9|2|3|7|3|3|2|9
+46|was Robert Crandall , chairman of AMR Corp. , the parent of American Airlines and the target of a takeover offer by Mr. Trump .|VBD NN NN , NN IN NN NN , DT NN IN JJ NNS CC DT NN IN DT NN NN IN NNP NNP .|44|Same-Unit|9|3|3|7|3|4|3|27
+47|Asked whether Friday 's action could help him avoid being Trumped by the New York real estate magnate ,|VBD IN NNP POS NN MD VB PRP VB VBG VBN IN DT JJ NN JJ NN NN ,|44|elaboration-additional|10|1|3|7|3|5|1|20
+48|Mr. Crandall smiled broadly|NNP NNP VBD RB|47|Question-Answer|10|2|3|7|3|6|2|5
+49|and said :|CC VBD :|50|attribution|10|3|3|7|3|7|3|3
+50|" No comment . "|'' DT NN . ''|48|List|10|3|3|7|3|8|4|5
+51|On Friday morning , before the market 's sell - off , the business leaders issued a report|IN NNP NN , IN DT NN POS NN : RP , DT NN NNS VBD DT NN|1|interpretation-s|11|1|3|8|1|1|1|19
+52|predicting the economy would grow at roughly an inflation - adjusted 93 % annual rate , through next year ,|VBG DT NN MD VB IN RB DT NN : VBN CD NN JJ NN , IN JJ NN ,|51|elaboration-object-attribute-e|11|2|3|8|2|2|2|20
+53|then accelerate anew in 93 .|RB VB RB IN CD .|52|Sequence|11|3|3|8|3|3|3|6
+54|Of the 93 economists|IN DT CD NNS|51|antithesis|12|1|3|8|3|4|1|4
+55|who worked on the Business Council forecast ,|WP VBD IN DT NN NN NN ,|54|elaboration-object-attribute-e|12|2|3|8|3|5|2|8
+56|only two projected periods of decline in the nation 's output over the next two years ,|RB CD VBN NNS IN NN IN DT NN POS NN IN DT JJ CD NNS ,|54|Same-Unit|12|3|3|8|3|6|3|18
+57|and in " both instances the declines are too modest|CC IN '' DT NNS DT NNS VBP RB JJ|54|elaboration-additional|12|3|3|8|3|7|4|10
+58|to warrant the phrase recession , "|TO VB DT NN NN , ''|57|consequence-s|12|3|3|8|3|8|5|7
+59|said Lewis Preston , chairman of J. P. Morgan & Co . and vice chairman of the Business Council .|VBD NN NN , NN IN NN NN NN CC NN . CC NN NN IN DT NN NN .|54|attribution|12|3|3|8|3|9|6|22
+
+1|The real estate slump|DT JJ NN NN|0|Root|1|1|1|1|1|1|1|4
+2|that 's pushing down the price of New York office space and housing|DT VBZ VBG RP DT NN IN JJ JJ NN NN CC NN|1|elaboration-object-attribute-e|1|2|2|1|2|2|2|14
+3|is also affecting the city 's retail real estate market .|VBZ RB VBG DT NN POS JJ JJ NN NN .|1|Same-Unit|1|3|3|1|3|3|3|12
+4|In Manhattan , once - desirable store sites sit vacant|IN NN , RB : JJ NN NNS VBP JJ|1|explanation-argumentative|2|1|3|2|1|1|1|10
+5|and newly constructed space has been slow to fill .|CC RB VBN NN VBZ VBN JJ TO VB .|4|List|2|2|3|2|2|2|2|10
+6|Retail real estate brokers say|JJ JJ NN NNS VBP|7|attribution|3|1|3|2|3|3|1|5
+7|tenants are reluctant to sign leases|NNS VBP JJ TO VB NNS|4|elaboration-additional|3|2|3|2|3|4|2|6
+8|because of uncertainty about the local economy , turmoil in their own industries and a belief|IN IN NN IN DT JJ NN , NN IN PRP$ JJ NNS CC DT NN|7|Cause-Result|3|3|3|2|3|5|3|16
+9|that rents have not yet hit bottom .|IN NNS VBP RB RB VBN NN .|8|elaboration-object-attribute-e|3|3|3|2|3|6|4|8
+10|" There is an unbelievable amount of space available , "|'' EX VBZ DT JJ NN IN NN JJ , ''|4|elaboration-additional|4|1|3|3|1|1|1|11
+11|says Faith Consolo , senior vice president at Garrick - Aug Associates Store Leasing Inc.|VBZ NN NN , JJ NN NN IN NN : NN VBZ NN NN NN .|10|attribution|4|2|3|3|2|2|2|16
+12|There are about 93 , 93 stores for rent , up from a more typical range of 93 , 93 to 93 , 93 .|EX VBP IN CD , CD NNS IN NN , RB IN DT RBR JJ NN IN CD , CD TO CD , CD .|10|elaboration-additional|5|1|3|3|3|3|1|25
+13|" This further confuses retailers , "|'' DT JJ NNS NNS , ''|12|elaboration-additional|5|2|3|3|3|4|2|7
+14|she says .|PRP VBZ .|13|attribution|5|3|3|3|3|5|3|3
+15|" They wonder|'' PRP VBP|16|attribution|5|3|3|3|3|6|4|3
+16|should they sign a lease|MD PRP VB DT NN|13|elaboration-additional|5|3|3|3|3|7|5|5
+17|if prices are still coming down ?|IN NNS VBP RB VBG RB .|16|condition|5|3|3|3|3|8|6|7
+18|Is this the wrong time|VBZ DT DT JJ NN|16|List|6|1|3|3|3|9|1|5
+19|to open a store ?|TO VB DT NN .|18|elaboration-object-attribute-e|6|2|3|3|3|10|2|5
+20|Who is going to be in the space next door ? "|WP VBZ VBG TO VB IN DT NN JJ NN . ''|16|List|7|1|3|3|3|11|1|12
+21|In addition ,|IN NN ,|10|elaboration-additional|8|1|3|4|1|1|1|3
+22|Ms . Consolo says ,|NNS . NN VBZ ,|21|attribution-e|8|2|3|4|2|2|2|5
+23|tenants usually can negotiate to pay rents|NNS RB MD VB TO VB NNS|21|Same-Unit|8|3|3|4|3|3|3|7
+24|that are about one - quarter lower than landlords ' initial asking price .|WDT VBP IN CD : NN JJR IN NNS POS JJ VBG NN .|23|elaboration-object-attribute-e|8|3|3|4|3|4|4|14
+25|A handful of hot retail locations , such as the 93 Street and Madison and Fifth Avenue areas , have been able to sustain what many see as astronomical rents .|DT NN IN JJ JJ NNS , JJ IN DT CD NN CC NN CC JJ NN NNS , VBP VBN JJ TO VB WP JJ VBP IN JJ NNS .|27|antithesis|9|1|3|5|1|1|1|31
+26|And , in some neighborhoods , rents have merely hit a plateau .|CC , IN DT NNS , NNS VBP RB VBN DT NN .|25|elaboration-additional|10|1|3|5|2|2|1|13
+27|But on average , Manhattan retail rents have dropped 93 % to 93 % in the past six months alone ,|CC IN NN , NN JJ NNS VBP VBN CD NN TO CD NN IN DT JJ CD NNS RB ,|1|elaboration-additional|11|1|3|5|3|3|1|21
+28|experts say .|NNS VBP .|27|attribution|11|2|3|5|3|4|2|3
+29|That follows a more subtle decline in the prior six months ,|IN VBZ DT RBR JJ NN IN DT JJ CD NNS ,|27|elaboration-additional|12|1|3|5|3|5|1|12
+30|after Manhattan rents had run up rapidly since 93 .|IN NN NNS VBD VBN RB RB IN CD .|29|circumstance|12|2|3|5|3|6|2|10
+31|The same factors|DT JJ NNS|1|elaboration-additional|13|1|3|6|1|1|1|3
+32|limiting demand for office space|VBG NN IN NN NN|31|elaboration-object-attribute-e|13|2|3|6|2|2|2|5
+33|have affected retailing .|VB VBN NN .|31|Same-Unit|13|3|3|6|3|3|3|4
+34|" As businesses contract or depart ,|'' IN NNS NN CC VB ,|35|circumstance|13|3|3|6|3|4|4|7
+35|the number of employees|DT NN IN NNS|31|explanation-argumentative|13|3|3|6|3|5|5|4
+36|who might use retail services|WP MD VB JJ NNS|35|elaboration-object-attribute-e|13|3|3|6|3|6|6|5
+37|shrinks , "|VBZ , ''|35|Same-Unit|13|3|3|6|3|7|7|3
+38|says Edward A. Friedman , senior vice president of Helmsley Spear Inc.|VBZ JJ NNP NN , JJ NN NN IN JJ NN NN .|35|attribution|13|3|3|6|3|8|8|14
+39|He says|PRP VBZ|40|attribution|14|1|3|7|1|1|1|2
+40|financial problems|JJ NNS|35|elaboration-additional|14|2|3|7|2|2|2|2
+41|plaguing electronics , fur and furniture companies|VBG NNS , NN CC NN NNS|40|elaboration-object-attribute-e|14|3|3|7|3|3|3|7
+42|- - key categories in the local retail economy - -|: : JJ NNS IN DT JJ JJ NN : :|41|elaboration-additional-e|14|3|3|7|3|4|4|11
+43|have further deflated the market .|VB RBR VBD DT NN .|40|Same-Unit|14|3|3|7|3|5|5|6
+44|Hardest hit are what he calls " secondary " sites|RBS VBN VBP WP PRP VBZ '' JJ '' NNS|40|elaboration-additional|15|1|3|7|3|6|1|10
+45|that primarily serve neighborhood residents .|IN RB VBP NN NNS .|44|elaboration-object-attribute-e|15|2|3|7|3|7|2|6
+46|In these locations ,|IN DT NNS ,|44|elaboration-additional|16|1|3|7|3|8|1|4
+47|Mr. Friedman says ,|NNP NNP VBZ ,|46|attribution-e|16|2|3|7|3|9|2|5
+48|" Retailers are increasingly cautious about expanding|'' NNS VBP RB JJ IN VBG|46|Same-Unit|16|3|3|7|3|10|3|7
+49|and rents have remained steady|CC NNS VBP VBN JJ|46|List|16|3|3|7|3|11|4|5
+50|or in some cases have declined . "|CC IN DT NNS VBP VBN . ''|49|Otherwise|16|3|3|7|3|12|5|8
+51|Weakness in the restaurant industry ,|NN IN DT NN NN ,|40|elaboration-additional|16|3|3|7|3|13|6|6
+52|which is leaving retail space vacant ,|WDT VBZ VBG JJ NN JJ ,|51|elaboration-additional-e|16|3|3|7|3|14|7|7
+53|exacerbates the problem for landlords .|VBZ DT NN IN NNS .|51|Same-Unit|16|3|3|7|3|15|8|6
+54|It is also no comfort to landlords and small New York retailers|PRP VBZ RB DT NN TO NNS CC JJ JJ NN NNS|51|elaboration-additional|17|1|3|8|1|1|1|12
+55|when the future of larger department stores ,|WRB DT NN IN JJR NN NNS ,|54|circumstance|17|2|3|8|2|2|2|8
+56|which anchor retail neighborhoods ,|WDT NN JJ NNS ,|55|elaboration-additional-e|17|3|3|8|3|3|3|5
+57|are in doubt .|VBP IN NN .|55|Same-Unit|17|3|3|8|3|4|4|4
+58|Hooker Corp. , parent of Bonwit Teller and B. Altman 's , is mired in bankruptcy proceedings|NN NN , NN IN NN NN CC NN NN POS , VBZ VBN IN NN NNS|54|example|18|1|3|8|3|5|1|20
+59|and Bloomingdale 's is for sale by its owner , Campeau Corp.|CC NN POS VBZ IN NN IN PRP$ NN , NN NN .|58|List|18|2|3|8|3|6|2|14
+60|The trend toward lower rents may seem surprising|DT NN IN JJR NNS MD VB JJ|62|antithesis|19|1|3|9|1|1|1|8
+61|given that some communities in New York are bemoaning the loss of favorite local businesses to high rents .|VBN IN DT NNS IN JJ NN VBP VBG DT NN IN JJ JJ NNS TO JJ NNS .|60|circumstance|19|2|3|9|2|2|2|19
+62|But ,|CC ,|31|comment|20|1|3|9|3|3|1|2
+63|despite the recent softening ,|IN DT JJ NN ,|64|concession-e|20|2|3|9|3|4|2|5
+64|for many of these retailers there 's still been too big a jump from the rental rates of the late 93 ,|IN JJ IN DT NNS EX VBZ RB VBN RB JJ DT NN IN DT JJ NNS IN DT JJ CD ,|62|Same-Unit|20|3|3|9|3|5|3|23
+65|when their leases were signed .|WRB PRP$ NNS VBD VBN .|64|temporal-same-time|20|3|3|9|3|6|4|6
+66|Certainly , the recent drop in prices doesn n't mean Manhattan comes cheap .|RB , DT JJ NN IN NNS VBP RB VB NN VBZ RB .|1|Topic-Drift|21|1|3|10|1|1|1|15
+67|New York retail rents still run well above the going rate in other U.S. cities .|JJ NN JJ NNS RB VBP RB IN DT VBG NN IN JJ JJ NNS .|66|elaboration-set-member|22|1|3|10|2|2|1|19
+68|Madison and Fifth Avenues and East 93 Street can command rents of up to $ 93 a square foot ,|NN CC JJ NNS CC JJ CD NN MD VB NNS IN RB TO $ CD DT JJ NN ,|67|explanation-argumentative|23|1|3|10|3|3|1|20
+69|and $ 93 is not uncommon .|CC $ CD VBZ RB JJ .|68|List|23|2|3|10|3|4|2|7
+70|The thriving 93 Street area offers rents of about $ 93 a square foot ,|DT VBG CD NN NN VBZ NNS IN RB $ CD DT JJ NN ,|68|elaboration-additional|24|1|3|10|3|5|1|15
+71|as do up - and - coming locations along lower Fifth Avenue .|RB VB RP : CC : VBG NNS IN JJR JJ NN .|70|List|24|2|3|10|3|6|2|13
+72|By contrast , rentals in the best retail locations in Boston , San Francisco and Chicago rarely top $ 93 a square foot .|IN NN , NNS IN DT JJS JJ NNS IN NN , NN NN CC NNP RB JJ $ CD DT JJ NN .|67|Contrast|25|1|3|10|3|7|1|24
+73|And rents on Beverly Hills ' Rodeo Drive generally don n't exceed about $ 93 a square foot .|CC NNS IN JJ NNS POS NN NN RB VBP RB VB IN $ CD DT JJ NN .|72|List|26|1|3|10|3|8|1|20
+74|The New York Stock Exchange said|DT JJ NN NN NN VBD|75|attribution|27|1|3|11|1|1|1|6
+75|two securities will begin trading this week .|CD NNS MD VB VBG DT NN .|1|Topic-Shift|27|2|3|11|2|2|2|8
+76|Precision Castparts Corp. , Portland , Ore. , will begin trading with the symbol PCP .|NN NNS VBP , VBP , NN . , MD VB VBG IN DT NN NN .|75|elaboration-set-member|28|1|3|12|1|1|1|18
+77|It makes investment castings|PRP VBZ NN NNS|76|elaboration-additional|29|1|3|12|2|2|1|4
+78|and has traded over - the - counter .|CC VBZ VBN IN : DT : RB .|77|List|29|2|3|12|3|3|2|9
+79|Royal Bank of Scotland Group PLC , an Edinburgh , Scotland , financial services company , will list American depositary shares ,|JJ NN IN NN NN NN , DT NN , NN , JJ NNS NN , MD VB JJ JJ NNS ,|76|List|30|1|3|13|1|1|1|22
+80|representing preferred shares ,|VBG JJ NNS ,|79|elaboration-additional-e|30|2|3|13|2|2|2|4
+81|with the symbol RBSPr .|IN DT NN NN .|79|Same-Unit|30|3|3|13|3|3|3|5
+82|It will continue to trade on the International Stock Exchange , London .|PRP MD VB TO VB IN DT JJ NN NN , NN .|79|elaboration-additional|31|1|3|13|3|4|1|13
+83|The American Stock Exchange listed shares of two companies .|DT JJ NN NN VBN NNS IN CD NNS .|75|List|32|1|3|14|1|1|1|10
+84|AIM Telephones Inc. , a Parsippany , N. J. , telecommunications equipment supply company , started trading with the symbol AIM .|NN NNS VBP , DT NN , NN NN , NN NN NN NN , VBD VBG IN DT NN NN .|83|elaboration-set-member|33|1|3|15|1|1|1|25
+85|It had traded over - the - counter .|PRP VBD VBN IN : DT : RB .|84|elaboration-additional|34|1|3|15|2|2|1|9
+86|Columbia Laboratories Inc. , Miami , began trading with the symbol COB .|NN NNS RB , NN , VBD VBG IN DT NN NN .|84|List|35|1|3|16|1|1|1|14
+87|The pharmaceuticals maker had traded over - the - counter .|DT NNS NN VBD VBN IN : DT : RB .|86|elaboration-additional|36|1|3|16|2|2|1|11
+88|The National Market System of the Nasdaq over - the - counter market listed shares of one company .|DT JJ NN NN IN DT NN IN : DT : JJ NN VBN NNS IN CD NN .|75|List|37|1|3|17|1|1|1|19
+89|Employee Benefit Plans Inc. , a Minneapolis health - care services company , was listed with the symbol EBPI .|NN NN NNS VBP , DT NN NN : NN NNS NN , VBD VBN IN DT NN NN .|88|elaboration-additional|38|1|3|1|1|1|1|21
+

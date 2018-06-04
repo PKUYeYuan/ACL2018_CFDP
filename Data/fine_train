@@ -1,0 +1,80 @@
+1|Spencer J. Volk , president and chief operating officer of this consumer and industrial products company , was elected a director .|NN NN NN , NN CC NN VBG NN IN DT NN CC JJ NNS NN , VBD VBN DT NN .|0|Root|1|1|1|1|1|1|1|23
+2|Mr. Volk , 93 years old , succeeds Duncan Dwight ,|NNP NNP , CD NNS JJ , VBZ NN NN ,|1|elaboration-additional|2|1|2|1|2|2|1|12
+3|who retired in September .|WP VBD IN NNP .|2|elaboration-additional-e|2|2|3|1|3|3|2|5
+
+1|In an age of specialization , the federal judiciary is one of the last bastions of the generalist .|IN DT NN IN NN , DT JJ NN VBZ CD IN DT JJ NNS IN DT NN .|0|Root|2|1|1|1|1|4|3|19
+2|A judge must jump from murder to antitrust cases , from arson to securities fraud ,|DT NN MD VB IN NN TO JJ NNS , IN NN TO NNS NN ,|1|explanation-argumentative|2|2|2|1|2|5|4|16
+3|without missing a beat .|IN VBG DT NN .|2|manner|2|3|3|1|3|6|5|5
+4|But even on the federal bench , specialization is creeping in ,|CC RB IN DT JJ NN , NN VBZ VBG IN ,|1|Contrast|3|1|3|2|1|1|1|12
+5|and it has become a subject of sharp controversy on the newest federal appeals court .|CC PRP VBZ VBN DT NN IN JJ NN IN DT JJS JJ NNS NN .|4|elaboration-additional|3|2|3|2|2|2|2|16
+6|The Court of Appeals for the Federal Circuit was created in 93|DT NN IN NNS IN DT JJ NN VBD VBN IN CD|1|elaboration-additional|4|1|3|3|1|1|1|12
+7|to serve , among other things , as the court of last resort for most patent disputes .|TO VB , IN JJ NNS , IN DT NN IN JJ NN IN JJS NN NNS .|6|purpose|4|2|3|3|2|2|2|18
+8|Previously , patent cases moved through the court system to one of the 93 circuit appeals courts .|RB , NN NNS VBD IN DT NN NN TO CD IN DT CD NN NNS NNS .|6|background|5|1|3|3|3|3|1|18
+9|There , judges|RB , NNS|8|elaboration-additional|6|1|3|3|3|4|1|3
+10|who saw few such cases|WP VBD JJ JJ NNS|9|elaboration-object-attribute-e|6|2|3|3|3|5|2|5
+11|and had no experience in the field|CC VBD DT NN IN DT NN|10|List|6|3|3|3|3|6|3|7
+12|grappled with some of the most technical and complex disputes imaginable .|VBN IN DT IN DT RBS JJ CC JJ NNS JJ .|9|Same-Unit|6|3|3|3|3|7|4|12
+13|A new specialty court was sought by patent experts ,|DT JJ NN NN VBD VBN IN NN NNS ,|9|Problem-Solution|7|1|3|4|1|1|1|10
+14|who believed|WP VBD|15|attribution|7|2|3|4|2|2|2|2
+15|that the generalists had botched too many important , multimillion - dollar cases .|IN DT NNS VBD VBN RB JJ JJ , JJ : NN NNS .|13|elaboration-additional-e|7|3|3|4|3|3|3|14
+16|Some patent lawyers had hoped|DT NN NNS VBD VBN|17|attribution|8|1|3|4|3|4|1|5
+17|that such a specialty court would be filled with experts in the field .|IN PDT DT NN NN MD VB VBN IN NNS IN DT NN .|13|elaboration-additional|8|2|3|4|3|5|2|14
+18|But the Reagan administration thought otherwise ,|CC DT NN NN VBD RB ,|17|Contrast|9|1|3|4|3|6|1|7
+19|and so may the Bush administration .|CC RB MD DT JJ NN .|18|List|9|2|3|4|3|7|2|7
+20|Since 93 , the president has filled four vacancies in the Federal Circuit court with non - patent lawyers .|IN CD , DT NN VBZ VBN CD NNS IN DT JJ NN NN IN JJ : NN NNS .|17|background|10|1|3|5|1|1|1|20
+21|Now only three of the 93 judges|RB RB CD IN DT CD NNS|20|elaboration-additional|11|1|3|5|2|2|1|7
+22|- - Pauline Newman , Chief Judge Howard T. Markey , 93 , and Giles Rich , 93 - -|: : NN NN , NN NN VBD NNP NNP , CD , CC NNS JJ , CD : :|21|elaboration-set-member-e|11|2|3|5|3|3|2|21
+23|have patent - law backgrounds .|VB NN : NN NNS .|21|Same-Unit|11|3|3|5|3|4|3|6
+24|The latter two and Judge Daniel M. Friedman , 93 , are approaching senior status or retirement .|DT JJ CD CC NN JJ NN NN , CD , VBP VBG JJ NN CC NN .|21|elaboration-additional|12|1|3|5|3|5|1|19
+25|Three seats currently are vacant|CD NNS RB VBP JJ|20|elaboration-additional|13|1|3|6|1|1|1|5
+26|and three others are likely to be filled within a few years ,|CC CD NNS VBP JJ TO VB VBN IN DT JJ NNS ,|25|List|13|2|3|6|2|2|2|13
+27|so patent lawyers and research - based industries are making a new push|IN NN NNS CC NN : VBN NNS VBP VBG DT JJ NN|20|Problem-Solution|13|3|3|6|3|3|3|13
+28|for specialists to be added to the court .|IN NNS TO VB VBN TO DT NN .|27|elaboration-object-attribute-e|13|3|3|6|3|4|4|9
+29|Several organizations ,|JJ NNS ,|27|elaboration-additional|14|1|3|6|3|5|1|3
+30|including the Industrial Biotechnical Association and the Pharmaceutical Manufacturers Association ,|VBG DT JJ JJ NN CC DT JJ NNS NN ,|29|elaboration-set-member-e|14|2|3|6|3|6|2|11
+31|have asked the White House and Justice Department to name candidates with both patent and scientific backgrounds .|VB VBN DT JJ NN CC NN NN TO VB NNS IN DT NN CC JJ NNS .|29|Same-Unit|14|3|3|6|3|7|3|18
+32|The associations would like the court to include between three and six judges with specialized training .|DT NNS MD VB DT NN TO VB IN CD CC CD NNS IN VBN NN .|29|elaboration-additional|15|1|3|6|3|8|1|17
+33|Some of the associations have recommended Dr . Alan D. Lourie , 93 , a former patent agent with a doctorate in organic chemistry|DT IN DT NNS VBP VBN NN . NN NN NN , CD , DT JJ NN NN IN DT NN IN JJ NN|29|elaboration-additional|16|1|3|7|1|1|1|25
+34|who now is associate general counsel with SmithKline Beckman Corp. in Philadelphia .|WP RB VBZ JJ JJ NN IN NN NN NN IN NN .|33|elaboration-additional|16|2|3|7|2|2|2|14
+35|Dr . Lourie says|NN . NN VBZ|36|attribution|17|1|3|7|3|3|1|4
+36|the Justice Department interviewed him last July .|DT NN NN VBD PRP JJ NNP .|33|elaboration-additional|17|2|3|7|3|4|2|8
+37|Their effort has received a lukewarm response from the Justice Department .|PRP$ NN VBZ VBN DT JJ NN IN DT NN NN .|33|elaboration-additional|18|1|3|8|1|1|1|12
+38|" We do not feel|'' PRP VBP RB VB|39|attribution-n|18|2|3|8|2|2|2|5
+39|that seats are reserved|IN NNS VBP VBN|37|explanation-argumentative|18|3|3|8|3|3|3|4
+40|( for patent lawyers ) , "|-LRB- IN NN NNS -RRB- , ''|39|elaboration-additional-e|18|3|3|8|3|4|4|7
+41|says Justice spokesman David Runkel ,|VBZ NN NN NN NN ,|39|attribution|18|3|3|8|3|5|5|6
+42|who declines to say|WP VBZ TO VB|43|attribution-n|18|3|3|8|3|6|6|4
+43|how soon a candidate will be named .|WRB RB DT NN MD VB VBN .|41|elaboration-additional-e|18|3|3|8|3|7|7|8
+44|" But we will take it into consideration . "|'' CC PRP MD VB PRP IN NN . ''|43|elaboration-additional|18|3|3|8|3|8|8|10
+45|The Justice Department 's view is shared by other lawyers and at least one member of the court , Judge H. Robert Mayer , a former civil litigator|DT NN NN POS NN VBZ VBN IN JJ NNS CC IN JJS CD NN IN DT NN , NN NN NN NN , DT JJ JJ NN|37|example|19|1|3|9|1|1|1|30
+46|who served at the claims court trial level|WP VBD IN DT NNS NN NN NN|45|elaboration-object-attribute-e|19|2|3|9|2|2|2|8
+47|before he was appointed to the Federal Circuit two years ago .|IN PRP VBD VBN TO DT JJ NN CD NNS RB .|45|temporal-before|19|3|3|9|3|3|3|12
+48|" I believe|'' FW VBP|49|attribution|19|3|3|9|3|4|4|3
+49|that any good lawyer should be able to figure out and understand patent law , "|IN DT JJ NN MD VB JJ TO VB RP CC VB NN NN , ''|45|explanation-argumentative|19|3|3|9|3|5|5|16
+50|Judge Mayer says ,|NN NN VBZ ,|49|attribution|19|3|3|9|3|6|6|4
+51|adding|VBG|52|elaboration-additional|19|3|3|9|3|7|7|1
+52|that " it 's the responsibility of highly paid lawyers|WDT '' PRP VBZ DT NN IN RB VBN NNS|49|elaboration-additional-e|19|3|3|9|3|8|8|11
+53|( who argue before the court )|-LRB- WP VBP IN DT NN -RRB-|52|elaboration-object-attribute-e|19|3|3|9|3|9|9|7
+54|to make us understand|TO VB PRP VB|52|Same-Unit|19|3|3|9|3|10|10|4
+55|( complex patent litigation ) . "|-LRB- NN NN NN -RRB- . ''|54|elaboration-additional|19|3|3|9|3|11|11|7
+56|Yet some lawyers point to Eli Lilly & Co . vs . Medtronic , Inc. , the patent infringement case the|RB DT NNS VBP TO VB NNP CC NNP . CC . NNP , NNP , DT NN NN NN DT|37|Contrast|20|1|3|10|1|1|1|12
+57|Supreme Court this month agreed to review , as an example of poor legal reasoning by judges|JJ NN DT NN VBD TO VB , IN DT NN IN JJ JJ NN IN NNS|56|explanation-argumentative|21|1|3|10|2|2|1|27
+58|who lack patent litigation experience .|WP VBP NN NN NN .|57|elaboration-object-attribute|21|2|3|10|3|3|2|6
+59|( Judge Mayer was not on the three - member panel . )|-LRB- NN NN VBD RB IN DT CD : NN NN . -RRB-|56|elaboration-additional|21|3|3|10|3|4|3|13
+60|In the Lilly case , the appeals court broadly construed a federal statute|IN DT JJ NN , DT NNS NN RB VBD DT JJ NN|56|elaboration-additional|22|1|3|11|1|1|1|13
+61|to grant Medtronic , a medical device manufacturer , an exemption|TO VB NNP , DT JJ NN NN , DT NN|60|elaboration-object-attribute-e|22|2|3|11|2|2|2|11
+62|to infringe a patent under certain circumstances .|TO VB DT NN IN JJ NNS .|61|purpose-e|22|3|3|11|3|3|3|8
+63|If the Supreme Court holds in Medtronic 's favor ,|IN DT JJ NN VBZ IN NNP POS NN ,|64|condition|23|1|3|11|3|4|1|11
+64|the decision will have billion - dollar consequences for the manufacturers of medical devices , color and food additives and all other non - drug products|DT NN MD VB CD : NN NNS IN DT NNS IN JJ NNS , NN CC NN NNS CC DT JJ JJ : NN NNS|60|elaboration-additional|23|2|3|11|3|5|2|26
+65|that required Food & Drug Administration approval .|IN VBN NN CC NN NN NN .|64|elaboration-object-attribute-e|23|3|3|11|3|6|3|8
+66|Lisa Raines , a lawyer and director of government relations for the Industrial Biotechnical Association , contends|NN NNS , DT NN CC NN IN NN NNS IN DT JJ JJ NN , VBZ|67|attribution|24|1|3|12|1|1|1|17
+67|that a judge well - versed in patent law and the concerns of research - based industries would have ruled otherwise .|IN DT NN RB : VBN IN NN NN CC DT NNS IN NN : VBN NNS MD VB VBN RB .|56|elaboration-additional|24|2|3|12|2|2|2|22
+68|And Judge Newman , a former patent lawyer , wrote in her dissent|CC NN NN , DT JJ NN NN , VBD IN PRP$ NN|69|attribution|25|1|3|12|3|3|1|13
+69|when the court denied a motion for a rehearing of the case by the full court ,|WRB DT NN VBD DT NN IN DT NN IN DT NN IN DT JJ NN ,|67|elaboration-additional|25|2|3|12|3|4|2|17
+70|" The panel 's judicial legislation has affected an important high - technological industry ,|'' DT NN POS JJ NN VBZ VBN DT JJ JJ : JJ NN ,|69|Cause-Result|25|3|3|12|3|5|3|16
+71|without regard to the consequences for research and innovation or the public interest . "|IN NN TO DT NNS IN NN CC NN CC DT JJ NN . ''|70|manner|25|3|3|12|3|6|4|15
+72|Says Ms . Raines ,|VBZ NNS . NNS ,|73|attribution|26|1|3|13|1|1|1|5
+73|" ( The judgment )|'' -LRB- DT NN -RRB-|67|elaboration-additional|26|2|3|13|2|2|2|5
+74|confirms our concern|VBZ PRP$ NN|73|Same-Unit|26|3|3|13|3|3|3|3
+75|that the absence of patent lawyers on the court could prove troublesome . "|IN DT NN IN NN NNS IN DT NN MD VB JJ . ''|74|elaboration-object-attribute|26|3|3|13|3|4|4|14
+
